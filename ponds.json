@@ -1,10 +1,8 @@
 { "type": "Topology",
 
+  "objects": { "ponds": { "type": "GeometryCollection", "geometries": [ 
 
-
-  "objects": { "ponds[1]": { "type": "GeometryCollection", "geometries": [ 
-
-  { "arcs": [[ 0 ]], "type": "Polygon", "properties": { "name": "" , "id": "LAND" }},
+{ "arcs": [[ 0 ]], "type": "Polygon", "properties": { "name": "" , "id": "LAND" }},
 { "arcs": [[ 1 ]], "type": "Polygon", "properties": { "name": "" , "id": "GSL" }},
 { "arcs": [[ 2, 3 ]], "type": "Polygon", "properties": { "name": "" , "id": "BEARRIVERBAYBRIDGE" }},
 { "arcs": [[ 4 ]], "type": "Polygon", "properties": { "name": "" , "id": "BEARRIVERBAY" }},
