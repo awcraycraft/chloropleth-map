@@ -1,7 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "water_areas",
-"crs": { "type": "name", "properties": { "name": "" } },
+
 "features": [
 
 
