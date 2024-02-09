@@ -274,7 +274,7 @@
 
 {"type":"Feature","properties":{"name":"11", "area":"PUMP STATION", "marker-symbol": "circle"},"geometry":{"type":"Point","coordinates":[-112.26491998869065,41.29427356098026]},"id":"PS011"},
 
-{"type":"Feature","properties":{"name":"13", "area":"PUMP STATION", "marker-symbol": "circle"},"geometry":{"type":"Point","coordinates":[-112.30397085723584,41.265203169447034]},"id":"PS013"},
+{"type":"Feature","properties":{"name":"13", "area":"PUMP STATION", "marker-symbol": "circle"},"geometry":{"type":"Point","coordinates":[-112.2829639687815,41.26171131587782]},"id":"PS013"},
 
 {"type":"Feature","properties":{"name":"14", "area":"PUMP STATION", "marker-symbol": "circle"},"geometry":{"type":"Point","coordinates":[-112.25566853238558,41.2653048964454]},"id":"PS014"},
 
