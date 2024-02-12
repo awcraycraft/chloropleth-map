@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "id": "NSL1",
-      "properties": {},
+      "properties": {"name": "NSL1"},
       "geometry": {
         "coordinates": [
           [
@@ -128,7 +128,7 @@
     {
       "type": "Feature",
       "id": "NSL2",
-      "properties": {},
+      "properties": {"name": "NSL2"},
       "geometry": {
         "coordinates": [
           [
