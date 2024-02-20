@@ -252,7 +252,7 @@
 
 
 
-
+{"type":"Feature","properties":{"name":"Outfall 6", "area":"PUMP STATION", "marker-symbol": "circle"},"geometry":{"type":"Point","coordinates":[-112.3362226,41.2696289]},"id":"OUTFALL06"},
 
 {"type":"Feature","properties":{"name":"1", "area":"PUMP STATION", "marker-symbol": "circle"},"geometry":{"type":"Point","coordinates":[-112.49670867690132,41.25550414823337]},"id":"PS01"},
 
