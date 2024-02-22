@@ -260,15 +260,15 @@
 
 
 
+{"type":"Feature","properties":{"name":"WEIR 251", "area":"PUMP STATION", "group1":"W251"},"geometry":{"type":"Point","coordinates":[-112.28756270644439,41.29462679500605]},"id":"WEIR251"},
 
+{"type":"Feature","properties":{"name":"WEIR 252", "area":"PUMP STATION", "group1":"W252"},"geometry":{"type":"Point","coordinates":[-112.29371627562708,41.29462679500605]},"id":"WEIR252"},
 
+{"type":"Feature","properties":{"name":"WEIR 253", "area":"PUMP STATION", "group1":"W253"},"geometry":{"type":"Point","coordinates":[-112.29912054562564,41.29461387411297]},"id":"WEIR253"},
 
+{"type":"Feature","properties":{"name":"OUTFALL 6", "area":"PUMP STATION", "group1":"OUTFALL06"},"geometry":{"type":"Point","coordinates":[-112.3362226,41.2696289]},"id":"OUTFALL06"},
 
-
-
-{"type":"Feature","properties":{"name":"Outfall 6", "area":"PUMP STATION", "group1":"OUTFALL06"},"geometry":{"type":"Point","coordinates":[-112.3362226,41.2696289]},"id":"OUTFALL06"},
-
-{"type":"Feature","properties":{"name":"1", "area":"PUMP STATION", "group1":"PS01"},"geometry":{"type":"Point","coordinates":[-112.49670867690132,41.25550414823337]},"id":"PS01"},
+{"type":"Feature","properties":{"name":"1", "area":"PUMP STATION", "group1":"PS01"},"geometry":{"type":"Point","coordinates":[-112.49929939154798,41.21700529091271]},"id":"PS01"},
 
 {"type":"Feature","properties":{"name":"2", "area":"PUMP STATION", "group1":"PS02"},"geometry":{"type":"Point","coordinates":[-112.35465757879402,41.27131341673521]},"id":"PS02"},
 
@@ -293,6 +293,8 @@
 {"type":"Feature","properties":{"name":"14", "area":"PUMP STATION", "group1":"PS14"},"geometry":{"type":"Point","coordinates":[-112.25566853238558,41.2653048964454]},"id":"PS14"},
 
 {"type":"Feature","properties":{"name":"16", "area":"PUMP STATION", "group1":"PS16"},"geometry":{"type":"Point","coordinates":[-112.24270839213747,41.29461716540368]},"id":"PS16"},
+
+{"type":"Feature","properties":{"name":"23", "area":"PUMP STATION", "group1":"PS23"},"geometry":{"type":"Point","coordinates":[-112.4994106941476,41.215658506606445]},"id":"PS23"},
 
 {"type":"Feature","properties":{"name":"112", "area":"PUMP STATION", "group1":"PS112"},"geometry":{"type":"Point","coordinates":[-112.88623085596764,41.25641052231816]},"id":"PS112"},
 
