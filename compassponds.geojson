@@ -125,6 +125,9 @@
 
 {"type":"Feature","properties":{"name":"30", "area":"WEST BUFFER", "group1":"POND30"},"geometry":{"type":"Polygon","coordinates":[[[-112.306833,41.287356],[-112.302536,41.29459],[-112.296659,41.29459],[-112.300541,41.287356],[-112.306833,41.287356]]]},"id":"POND30"},
 
+{"type":"Feature","properties":{"name":"31", "area":"WEST BUFFER", "group1":"POND"31},"geometry":{"type":"Polygon","coordinates":[[[-112.311066,41.279958],[-112.306831,41.287313],[-112.300508,41.287337],[-112.304485,41.279931],[-112.311066,41.279958]]]},"id":"POND31"},
+
+{"type":"Feature","properties":{"name":"32", "area":"WEST BUFFER", "group1":"POND32"},"geometry":{"type":"Polygon","coordinates":[[[-112.315412,41.272602],[-112.311154,41.279896],[-112.304528,41.279876],[-112.308467,41.27258],[-112.315412,41.272602]]]},"id":"POND32"},
 
 
 
