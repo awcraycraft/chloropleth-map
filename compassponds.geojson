@@ -266,7 +266,7 @@
 
 {"type":"Feature","properties":{"name":"W253", "area":"PUMP STATION", "group1":"W253"},"geometry":{"type":"Point","coordinates":[-112.29912054562564,41.29461387411297]},"id":"WEIR253"},
 
-{"type":"Feature","properties":{"name":"OUTFALL 6", "area":"PUMP STATION", "group1":"OUTFALL06"},"geometry":{"type":"Point","coordinates":[-112.3363074565433,41.269671300637725]},"id":"OUTFALL06"},
+{"type":"Feature","properties":{"name":"OUTFALL 6", "area":"PUMP STATION", "group1":"OUTFALL06"},"geometry":{"type":"Point","coordinates":[-112.3363074565433,41.269671300637725]},"id":"OUTFALL6"},
 
 {"type":"Feature","properties":{"name":"1", "area":"PUMP STATION", "group1":"PS01"},"geometry":{"type":"Point","coordinates":[-112.49929939154798,41.21764383274126]},"id":"PS01"},
 
