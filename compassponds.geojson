@@ -258,15 +258,15 @@
 
 
 
-{"type":"Feature","properties":{"name":"B41", "area":"PUMP STATION", "group1":"B41"},"geometry":{"type":"Point","coordinates":[-112.297910360847,41.2652664892405]},"id":"BRIDGE41"},
+{"type":"Feature","properties":{"name":"41", "area":"PUMP STATION", "group1":"B41"},"geometry":{"type":"Point","coordinates":[-112.297910360847,41.2652664892405]},"id":"BRIDGE41"},
 
-{"type":"Feature","properties":{"name":"W251", "area":"PUMP STATION", "group1":"W251"},"geometry":{"type":"Point","coordinates":[-112.28756270644439,41.29462679500605]},"id":"WEIR251"},
+{"type":"Feature","properties":{"name":"251", "area":"PUMP STATION", "group1":"W251"},"geometry":{"type":"Point","coordinates":[-112.28756270644439,41.29462679500605]},"id":"WEIR251"},
 
-{"type":"Feature","properties":{"name":"W252", "area":"PUMP STATION", "group1":"W252"},"geometry":{"type":"Point","coordinates":[-112.29371627562708,41.29462679500605]},"id":"WEIR252"},
+{"type":"Feature","properties":{"name":"252", "area":"PUMP STATION", "group1":"W252"},"geometry":{"type":"Point","coordinates":[-112.29371627562708,41.29462679500605]},"id":"WEIR252"},
 
-{"type":"Feature","properties":{"name":"W253", "area":"PUMP STATION", "group1":"W253"},"geometry":{"type":"Point","coordinates":[-112.29912054562564,41.29461387411297]},"id":"WEIR253"},
+{"type":"Feature","properties":{"name":"253", "area":"PUMP STATION", "group1":"W253"},"geometry":{"type":"Point","coordinates":[-112.29912054562564,41.29461387411297]},"id":"WEIR253"},
 
-{"type":"Feature","properties":{"name":"OUTFALL 6", "area":"PUMP STATION", "group1":"OUTFALL06"},"geometry":{"type":"Point","coordinates":[-112.3363074565433,41.269671300637725]},"id":"OUTFALL6"},
+{"type":"Feature","properties":{"name":"6", "area":"PUMP STATION", "group1":"OUTFALL06"},"geometry":{"type":"Point","coordinates":[-112.3363074565433,41.269671300637725]},"id":"OUTFALL6"},
 
 {"type":"Feature","properties":{"name":"1", "area":"PUMP STATION", "group1":"PS01"},"geometry":{"type":"Point","coordinates":[-112.49929939154798,41.21764383274126]},"id":"PS01"},
 
