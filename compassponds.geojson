@@ -272,9 +272,9 @@
 
 
 
-{"type":"Feature","properties":{"name":"1", "area":"PUMP STATION", "group1":"OUTFALL1"},"geometry":{"type":"Point","coordinates":[-112.24493037944312,41.2689992952591]},"id":"OUTFALL1"},
+{"type":"Feature","properties":{"name":"1", "area":"PUMP STATION", "group1":"OUTFALL1"},"geometry":{"type":"Point","coordinates":[-112.24384995319726,41.26942747689505]},"id":"OUTFALL1"},
 {"type":"Feature","properties":{"name":"1B", "area":"PUMP STATION", "group1":"OUTFALL1B"},"geometry":{"type":"Point","coordinates":[-112.23305555555600,41.27861111111110]},"id":"OUTFALL1B"},
-{"type":"Feature","properties":{"name":"2", "area":"PUMP STATION", "group1":"OUTFALL2"},"geometry":{"type":"Point","coordinates":[-112.24691427435803,41.26816210991076]},"id":"OUTFALL2"},
+{"type":"Feature","properties":{"name":"2", "area":"PUMP STATION", "group1":"OUTFALL2"},"geometry":{"type":"Point","coordinates":[-112.24770003890004,41.26789633728019]},"id":"OUTFALL2"},
 {"type":"Feature","properties":{"name":"3", "area":"PUMP STATION", "group1":"OUTFALL3"},"geometry":{"type":"Point","coordinates":[-112.27750000000000,41.25916666666670]},"id":"OUTFALL3"},
 {"type":"Feature","properties":{"name":"4", "area":"PUMP STATION", "group1":"OUTFALL4"},"geometry":{"type":"Point","coordinates":[-112.27722222222200,41.24500000000000]},"id":"OUTFALL4"},
 {"type":"Feature","properties":{"name":"5", "area":"PUMP STATION", "group1":"OUTFALL5"},"geometry":{"type":"Point","coordinates":[-112.32027777777800,41.23833333333330]},"id":"OUTFALL5"},
