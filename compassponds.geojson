@@ -270,7 +270,19 @@
 
 {"type":"Feature","properties":{"name":"253", "area":"PUMP STATION", "group1":"WEIR253"},"geometry":{"type":"Point","coordinates":[-112.29912054562564,41.29461387411297]},"id":"WEIR253"},
 
+
+
+{"type":"Feature","properties":{"name":"001", "area":"PUMP STATION", "group1":"OUTFALL1"},"geometry":{"type":"Point","coordinates":[-112.244167, 41.269167]},"id":"OUTFALL1"},
+{"type":"Feature","properties":{"name":"001B", "area":"PUMP STATION", "group1":"OUTFALL1B"},"geometry":{"type":"Point","coordinates":[-112.233056, 41.278611]},"id":"OUTFALL1B"},
+{"type":"Feature","properties":{"name":"002", "area":"PUMP STATION", "group1":"OUTFALL2"},"geometry":{"type":"Point","coordinates":[-112.245278, 41.268611]},"id":"OUTFALL2"},
+{"type":"Feature","properties":{"name":"003", "area":"PUMP STATION", "group1":"OUTFALL3"},"geometry":{"type":"Point","coordinates":[-112.2775, 41.259167]},"id":"OUTFALL3"},
+{"type":"Feature","properties":{"name":"004", "area":"PUMP STATION", "group1":"OUTFALL4"},"geometry":{"type":"Point","coordinates":[-112.277222, 41.245]},"id":"OUTFALL4"},
+{"type":"Feature","properties":{"name":"005", "area":"PUMP STATION", "group1":"OUTFALL5"},"geometry":{"type":"Point","coordinates":[-112.320278, 41.238333]},"id":"OUTFALL5"},
 {"type":"Feature","properties":{"name":"6", "area":"PUMP STATION", "group1":"OUTFALL6"},"geometry":{"type":"Point","coordinates":[-112.3363074565433,41.269671300637725]},"id":"OUTFALL6"},
+{"type":"Feature","properties":{"name":"007", "area":"PUMP STATION", "group1":"OUTFALL7"},"geometry":{"type":"Point","coordinates":[-112.357222, 41.270833]},"id":"OUTFALL7"},
+{"type":"Feature","properties":{"name":"008", "area":"PUMP STATION", "group1":"OUTFALL8"},"geometry":{"type":"Point","coordinates":[-112.361667, 41.231667]},"id":"OUTFALL8"},
+{"type":"Feature","properties":{"name":"009", "area":"PUMP STATION", "group1":"OUTFALL9"},"geometry":{"type":"Point","coordinates":[-112.891389, 41.262222]},"id":"OUTFALL9"},
+
 
 {"type":"Feature","properties":{"name":"1", "area":"PUMP STATION", "group1":"PS01"},"geometry":{"type":"Point","coordinates":[-112.49929939154798,41.21764383274126]},"id":"PS01"},
 
