@@ -3,8 +3,8 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "NAME": "Arizona"
+      "properties": { "area":"land",
+        "name": "Arizona"
       },
       "geometry": {
         "type": "Polygon",
@@ -261,8 +261,8 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "NAME": "Arkansas"
+      "properties": { "area":"land",
+        "name": "Arkansas"
       },
       "geometry": {
         "type": "Polygon",
@@ -847,8 +847,8 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "NAME": "California"
+      "properties": { "area":"land",
+        "name": "California"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2373,8 +2373,8 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "NAME": "Colorado"
+      "properties": { "area":"land",
+        "name": "Colorado"
       },
       "geometry": {
         "type": "Polygon",
@@ -2697,8 +2697,8 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "NAME": "Connecticut"
+      "properties": { "area":"land",
+        "name": "Connecticut"
       },
       "geometry": {
         "type": "Polygon",
@@ -3021,8 +3021,8 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "NAME": "District of Columbia"
+      "properties": { "area":"land",
+        "name": "District of Columbia"
       },
       "geometry": {
         "type": "Polygon",
@@ -3062,8 +3062,8 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "NAME": "Georgia"
+      "properties": { "area":"land",
+        "name": "Georgia"
       },
       "geometry": {
         "type": "Polygon",
@@ -3615,8 +3615,8 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "NAME": "Illinois"
+      "properties": { "area":"land",
+        "name": "Illinois"
       },
       "geometry": {
         "type": "Polygon",
@@ -4361,8 +4361,8 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "NAME": "Indiana"
+      "properties": { "area":"land",
+        "name": "Indiana"
       },
       "geometry": {
         "type": "Polygon",
@@ -4966,8 +4966,8 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "NAME": "Louisiana"
+      "properties": { "area":"land",
+        "name": "Louisiana"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6376,8 +6376,8 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "NAME": "Minnesota"
+      "properties": { "area":"land",
+        "name": "Minnesota"
       },
       "geometry": {
         "type": "Polygon",
@@ -7256,8 +7256,8 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "NAME": "Mississippi"
+      "properties": { "area":"land",
+        "name": "Mississippi"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7887,8 +7887,8 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "NAME": "Montana"
+      "properties": { "area":"land",
+        "name": "Montana"
       },
       "geometry": {
         "type": "Polygon",
@@ -8388,8 +8388,8 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "NAME": "New Mexico"
+      "properties": { "area":"land",
+        "name": "New Mexico"
       },
       "geometry": {
         "type": "Polygon",
@@ -8701,8 +8701,8 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "NAME": "North Dakota"
+      "properties": { "area":"land",
+        "name": "North Dakota"
       },
       "geometry": {
         "type": "Polygon",
@@ -9163,8 +9163,8 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "NAME": "Oklahoma"
+      "properties": { "area":"land",
+        "name": "Oklahoma"
       },
       "geometry": {
         "type": "Polygon",
@@ -9863,8 +9863,8 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "NAME": "Pennsylvania"
+      "properties": { "area":"land",
+        "name": "Pennsylvania"
       },
       "geometry": {
         "type": "Polygon",
@@ -10264,8 +10264,8 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "NAME": "Tennessee"
+      "properties": { "area":"land",
+        "name": "Tennessee"
       },
       "geometry": {
         "type": "Polygon",
@@ -10859,8 +10859,8 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "NAME": "Virginia"
+      "properties": { "area":"land",
+        "name": "Virginia"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12154,8 +12154,8 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "NAME": "Delaware"
+      "properties": { "area":"land",
+        "name": "Delaware"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12425,8 +12425,8 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "NAME": "West Virginia"
+      "properties": { "area":"land",
+        "name": "West Virginia"
       },
       "geometry": {
         "type": "Polygon",
@@ -13022,8 +13022,8 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "NAME": "Wisconsin"
+      "properties": { "area":"land",
+        "name": "Wisconsin"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15664,8 +15664,8 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "NAME": "Wyoming"
+      "properties": { "area":"land",
+        "name": "Wyoming"
       },
       "geometry": {
         "type": "Polygon",
@@ -15914,8 +15914,8 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "NAME": "Alabama"
+      "properties": { "area":"land",
+        "name": "Alabama"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16431,8 +16431,8 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "NAME": "Florida"
+      "properties": { "area":"land",
+        "name": "Florida"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18255,8 +18255,8 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "NAME": "Idaho"
+      "properties": { "area":"land",
+        "name": "Idaho"
       },
       "geometry": {
         "type": "Polygon",
@@ -18780,8 +18780,8 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "NAME": "Kansas"
+      "properties": { "area":"land",
+        "name": "Kansas"
       },
       "geometry": {
         "type": "Polygon",
@@ -19506,8 +19506,8 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "NAME": "Maryland"
+      "properties": { "area":"land",
+        "name": "Maryland"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22377,8 +22377,8 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "NAME": "New Jersey"
+      "properties": { "area":"land",
+        "name": "New Jersey"
       },
       "geometry": {
         "type": "Polygon",
@@ -22756,8 +22756,8 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "NAME": "North Carolina"
+      "properties": { "area":"land",
+        "name": "North Carolina"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23827,8 +23827,8 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "NAME": "South Carolina"
+      "properties": { "area":"land",
+        "name": "South Carolina"
       },
       "geometry": {
         "type": "Polygon",
@@ -24236,8 +24236,8 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "NAME": "Washington"
+      "properties": { "area":"land",
+        "name": "Washington"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25745,8 +25745,8 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "NAME": "Vermont"
+      "properties": { "area":"land",
+        "name": "Vermont"
       },
       "geometry": {
         "type": "Polygon",
@@ -25929,8 +25929,8 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "NAME": "Utah"
+      "properties": { "area":"land",
+        "name": "Utah"
       },
       "geometry": {
         "type": "Polygon",
@@ -26105,8 +26105,8 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "NAME": "Iowa"
+      "properties": { "area":"land",
+        "name": "Iowa"
       },
       "geometry": {
         "type": "Polygon",
@@ -26768,8 +26768,8 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "NAME": "Kentucky"
+      "properties": { "area":"land",
+        "name": "Kentucky"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27501,8 +27501,8 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "NAME": "Maine"
+      "properties": { "area":"land",
+        "name": "Maine"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28891,8 +28891,8 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "NAME": "Massachusetts"
+      "properties": { "area":"land",
+        "name": "Massachusetts"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29869,8 +29869,8 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "NAME": "Michigan"
+      "properties": { "area":"land",
+        "name": "Michigan"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33877,8 +33877,8 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "NAME": "Missouri"
+      "properties": { "area":"land",
+        "name": "Missouri"
       },
       "geometry": {
         "type": "Polygon",
@@ -34738,8 +34738,8 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "NAME": "Nebraska"
+      "properties": { "area":"land",
+        "name": "Nebraska"
       },
       "geometry": {
         "type": "Polygon",
@@ -35410,8 +35410,8 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "NAME": "Nevada"
+      "properties": { "area":"land",
+        "name": "Nevada"
       },
       "geometry": {
         "type": "Polygon",
@@ -35644,8 +35644,8 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "NAME": "New Hampshire"
+      "properties": { "area":"land",
+        "name": "New Hampshire"
       },
       "geometry": {
         "type": "Polygon",
@@ -35872,8 +35872,8 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "NAME": "New York"
+      "properties": { "area":"land",
+        "name": "New York"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36805,8 +36805,8 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "NAME": "Ohio"
+      "properties": { "area":"land",
+        "name": "Ohio"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37658,8 +37658,8 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "NAME": "Oregon"
+      "properties": { "area":"land",
+        "name": "Oregon"
       },
       "geometry": {
         "type": "Polygon",
@@ -38217,8 +38217,8 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "NAME": "Rhode Island"
+      "properties": { "area":"land",
+        "name": "Rhode Island"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38610,8 +38610,8 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "NAME": "South Dakota"
+      "properties": { "area":"land",
+        "name": "South Dakota"
       },
       "geometry": {
         "type": "Polygon",
@@ -39233,8 +39233,8 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "NAME": "Texas"
+      "properties": { "area":"land",
+        "name": "Texas"
       },
       "geometry": {
         "type": "MultiPolygon",
