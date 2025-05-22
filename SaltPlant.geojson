@@ -2,7 +2,7 @@
 [{"type":"Feature","properties":{"name":106},"geometry":{"coordinates":
 [-112.23000881798924,41.28245615308552],"type":"Point"},"id":106},
 {"type":"Feature","properties":{"name":17},"geometry":{"coordinates":
-[-112.22996426730202,41.28245615308552],"type":"Point"},"id":1},
+[-112.22996426730202,41.28245615308552],"type":"Point"},"id":17},
 {"type":"Feature","properties":{"name":18},"geometry":{"coordinates":
 [-112.22985289058362,41.28245615308552],"type":"Point"},"id":2},
 {"type":"Feature","properties":{"name":107},"geometry":{"coordinates":
