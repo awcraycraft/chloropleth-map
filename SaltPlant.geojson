@@ -68,6 +68,6 @@
 {"type":"Feature","properties":{"name":	118	},"geometry":{"coordinates":[	-112.229645	,	41.28154729	], "type" : "Point"}, "id":	118	},
 {"type":"Feature","properties":{"name":	119	},"geometry":{"coordinates":[	-112.2296437	,	41.28183843	], "type" : "Point"}, "id":	119	},
 {"type":"Feature","properties":{"name":	120	},"geometry":{"coordinates":[	-112.2296476	,	41.28211978	], "type" : "Point"}, "id":	120	},
-{"type":"Feature","properties":{"name":	23A	},"geometry":{"coordinates":[	-112.2287843	,	41.2823854	], "type" : "Point"}, "id":	231	},
-{"type":"Feature","properties":{"name":	23B	},"geometry":{"coordinates":[	-112.2287865	,	41.28234111	], "type" : "Point"}, "id":	232	}
+{"type":"Feature","properties":{"name":	"23A"	},"geometry":{"coordinates":[	-112.2287843	,	41.2823854	], "type" : "Point"}, "id":	231	},
+{"type":"Feature","properties":{"name":	"23B"	},"geometry":{"coordinates":[	-112.2287865	,	41.28234111	], "type" : "Point"}, "id":	232	}
 ]}
